@@ -15,7 +15,8 @@ Este repositorio cuenta con carpetas que se visualizan de la siguiente manera:
 #### Link vinculados al examen.
 
 
-| Nombre	       | Link --------------------------------------------------|
+| Nombre	       | Link                                                   |
+| -------------- | -------------------------------------------------------|
 | Linkedin	     | linkedin.com/in/loreto-yenary-vivar-azócar-2b09721b8   |
 | Git Hub	       | github.com/Loreto-Vivar?tab=stars                      |
 
@@ -25,7 +26,8 @@ Este repositorio cuenta con carpetas que se visualizan de la siguiente manera:
 
 Los programas utilizados para este proceso son:
 
-| Programa utilizado         | Link del programa---------------------------|
+| Programa utilizado         | Link del programa                           |
+| -------------------------- | --------------------------------------------|
 | Visual Code                | https://code.visualstudio.com/              |
 | Python	                   | https://www.python.org/downloads/           |
 
