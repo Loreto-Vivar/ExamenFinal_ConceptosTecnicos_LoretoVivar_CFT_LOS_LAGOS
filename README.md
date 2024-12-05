@@ -36,7 +36,11 @@ Los programas utilizados para este proceso son:
 Para hacer uso de este repositorio de manera online, los contenidos son subidos a la plataforma de github, en donde se van actualizando semana a semana. Los archivos son actualizados a través del uso del programa llamado Visual Code, con la extención de Python. Para llevar a cabo este proceso se utilizan los siguientes códigos:
 
 git branch
+
 git chechout origin master
+
 git add .
+
 git commit -m "..."
+
 git push origin master
